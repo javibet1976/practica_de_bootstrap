@@ -1,0 +1,23 @@
+{
+  "name": "coursera2",
+  "version": "1.0.0",
+  "description": "Práctica de Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javibet1976/practica_de_bootstrap.git"
+  },
+  "author": "Jair Villegas Betancourt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javibet1976/practica_de_bootstrap/issues"
+  },
+  "homepage": "https://github.com/javibet1976/practica_de_bootstrap#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0",
+    "nodemon": "^2.0.6"
+  }
+}
